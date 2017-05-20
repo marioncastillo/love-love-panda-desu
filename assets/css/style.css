@@ -6,3 +6,14 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+#cabecera{
+	background-size: cover;
+	background-position: center;
+	background-color: #F78E69;
+	padding: 20px 0 ;
+
+}
+
+#cabecera h1{
+	position: right;
+}
